@@ -1,11 +1,16 @@
 Hello!,
 This repository contains 2 files frontend and backend
 
-1. Unzip both the files 
+Unzip both the files 
 
 Run the frontend(dev-app) in PORT 3000
 Run the Backend(dev-backend) in PORT 8000
 
-2. Run npm install command to install all node modules
-3. Type npm start to Run the application
-4. The application runs 
+For Front End
+1. Run npm install command to install all node modules
+2. Type npm start to Run the application
+3. The application will be running in localhost 3000
+
+For Back End
+1. Type node app.js
+2. Server will start running in port 8000, which will be used by front end
